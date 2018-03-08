@@ -1,0 +1,2 @@
+# E-Commerce-Web-Protal
+This is a web based application intended for online retailers. It would make searching, viewing and selection of a product easier for user’s specific to their needs.  It has various modules like accounts, products, search, payment, billing, cart etc. which enables the user to buy and sell the products online. In this portal the user can also authenticate through Twitter and Facebook.
